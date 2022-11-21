@@ -1,0 +1,21 @@
+#first python program :- Code to create a list.
+
+'''list1=[]
+num=int(input("How manny element do you want in ur list : ")
+while num > 0 :
+  elmt=input("Enter the element : ")
+  list1.append(elmt)
+  num = num - 1
+print (list1)'''
+
+
+
+#second python program :- To check wether the numer is positive or negative.
+
+'''num=float(input("Enter the number you want to check : ")
+if num > 0 :
+  print ("The number is positive.")
+elif num < 0 :
+  print ("The number is negetive.")
+else :
+  print ("The number is zero.")'''
